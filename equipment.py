@@ -120,10 +120,13 @@ def obtain(o, guid):
 def clamp_stat(s):
     return min(5, max(0, s))
 
+
 def calc_level(stats):
     dmg = clamp_stat(stats["AttackDamage"] + stats["AttackDamageIncrement"]) + 1
     chance = HIT_CHANCE[clamp_stat(stats["HitChance"] + stats["HitChanceIncrement"])]
-    speed = ATTACK_SPEED[clamp_stat(stats["AttackSpeed"] + stats["AttackSpeedIncrement"])]
+    speed = ATTACK_SPEED[
+        clamp_stat(stats["AttackSpeed"] + stats["AttackSpeedIncrement"])
+    ]
     dps = dmg / speed * chance
     lvl = dps * 5
     lvl += stats["MaxHealth"] * 0.5
@@ -240,6 +243,8 @@ for cat in ["body", "head", "weapon"]:
                 else ""
             )
             see = f"==See also==\n*[[Idea: {name}]]\n\n" if rec else ""
+            atk_type = ATTACK_TYPE[obj["AttackType"]]
+            atk_type_cat = f"[[Category:Equipment/{atk_type}]]\n" if atk_type else ""
             out = f"""\
 {{{{Stacklands Equipment
 |image = {name.replace(" ", "_")}.png
@@ -251,7 +256,7 @@ for cat in ["body", "head", "weapon"]:
 |damage = {signed(stats['AttackDamageIncrement'])}
 |defense = {signed(stats['DefenceIncrement'])}
 |slot = {CAT_NAME[cat]}
-|attack_type = {ATTACK_TYPE[obj["AttackType"]]}
+|attack_type = {atk_type}
 |level = {calc_level(stats)}
 |sell_prize = {obj["Value"]}
 }}}}
@@ -261,6 +266,7 @@ for cat in ["body", "head", "weapon"]:
 {rec2}\
 {used}\
 {see}\
+{atk_type_cat}\
 [[Category:Equipment]]
 [[Category:Equipment/{CAT_NAME[cat]}]]"""
 
