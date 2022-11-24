@@ -1,0 +1,26 @@
+{{Stacklands Friendly Mob
+|image1 = Chicken.png
+|caption1 = "Alleged descendent of dinosaurs. I don't see it"
+|combat_level  = 6
+|health_points = 5
+|effect = 
+|attack_type = Melee
+|attack_speed = Normal (1.5s)
+|hit_chance = Small (60%)
+|damage = Weak (2)
+|defense = Very Weak (Blocks 0)
+}}
+'''Chicken''' is a [[:Category:Friendly Mobs|brown]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as a [[:Category:Mobs|Mob]].
+
+==How to Spawn==
+*By exploring [[Plains]] (14%)
+*From ''Reap & Sow'' (25%) [[Card Packs]]
+
+==Drops==
+*[[Raw Meat]] (25%)
+*[[Egg]] (25%)
+*[[Poop]] (25%)
+*[[Bone]] (25%)
+
+[[Category:Mobs]]
+[[Category:Friendly Mobs]]

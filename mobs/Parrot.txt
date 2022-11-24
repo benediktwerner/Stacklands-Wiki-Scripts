@@ -1,0 +1,25 @@
+{{Stacklands Friendly Mob
+|image1 = Parrot.png
+|caption1 = "Talks like a human, flies like a bird. Makes Pirates happy"
+|combat_level  = 6
+|health_points = 5
+|effect = 
+|attack_type = Melee
+|attack_speed = Normal (1.5s)
+|hit_chance = Small (60%)
+|damage = Weak (2)
+|defense = Very Weak (Blocks 0)
+}}
+'''Parrot''' is a [[:Category:Friendly Mobs|brown]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as a [[:Category:Mobs|Mob]].
+
+==How to Spawn==
+*By exploring [[Jungle]] (14%)
+*From ''Grilling and Brewing'' (33%) [[Card Packs]]
+
+==Drops==
+*[[Raw Meat]] (33%)
+*[[Poop]] (33%)
+*[[Bone]] (33%)
+
+[[Category:Mobs]]
+[[Category:Friendly Mobs]]

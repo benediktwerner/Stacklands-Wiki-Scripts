@@ -1,0 +1,19 @@
+{{Stacklands Friendly Mob
+|image1 = Tuna.png
+|caption1 = "Chunky fish"
+|combat_level  = 8
+|health_points = 6
+|effect = 
+|attack_type = Melee
+|attack_speed = Slow (2.5s)
+|hit_chance = Normal (70%)
+|damage = Weak (2)
+|defense = Weak (Blocks 1)
+}}
+'''Tuna''' is a [[:Category:Friendly Mobs|brown]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as a [[:Category:Mobs|Mob]].
+
+==Drops==
+*3x [[Raw Fish]]
+
+[[Category:Mobs]]
+[[Category:Friendly Mobs]]

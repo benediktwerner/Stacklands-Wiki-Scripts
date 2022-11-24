@@ -1,0 +1,19 @@
+{{Stacklands Friendly Mob
+|image1 = Cod.png
+|caption1 = "Wet and slippery fish"
+|combat_level  = 4
+|health_points = 3
+|effect = 
+|attack_type = Melee
+|attack_speed = Slow (2.5s)
+|hit_chance = Normal (70%)
+|damage = Weak (2)
+|defense = Very Weak (Blocks 0)
+}}
+'''Cod''' is a [[:Category:Friendly Mobs|brown]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as a [[:Category:Mobs|Mob]].
+
+==Drops==
+*[[Raw Fish]]
+
+[[Category:Mobs]]
+[[Category:Friendly Mobs]]

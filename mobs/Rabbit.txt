@@ -1,0 +1,27 @@
+{{Stacklands Friendly Mob
+|image1 = Rabbit.png
+|caption1 = "Fluffy poop machine"
+|combat_level  = 8
+|health_points = 5
+|effect = 10% chance to [[Status Effects#Status:_Frenzy|Frenzy]] self for 10s
+|attack_type = Melee
+|attack_speed = Normal (1.5s)
+|hit_chance = Small (60%)
+|damage = Weak (2)
+|defense = Very Weak (Blocks 0)
+}}
+'''Rabbit''' is a [[:Category:Friendly Mobs|brown]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as a [[:Category:Mobs|Mob]].
+
+==How to Spawn==
+*By exploring [[Forest]] (10%)
+*From ''Humble Beginnings'' (9%) or ''Reap & Sow'' (25%) [[Card Packs]]
+
+==Drops==
+*[[Raw Meat]] (17%)
+*[[Carrot]] (17%)
+*[[Poop]] (17%)
+*[[Bone]] (17%)
+*[[Rabbit Hat]] (33%, only if no other equipment has been dropped yet in the current fight)
+
+[[Category:Mobs]]
+[[Category:Friendly Mobs]]
