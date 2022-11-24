@@ -316,6 +316,7 @@ for path, _, files in chain(
             objs_by_guid[guid] = obj
             objs_by_id[obj["Id"]] = obj
 
+            # Locations
             if obj["MyCardType"] == 6:
                 name = loc[obj["NameTerm"]]
                 for e in obj["MyCardBag"]["Chances"]:

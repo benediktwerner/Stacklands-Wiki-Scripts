@@ -92,7 +92,7 @@ loc = {}
 objs_by_guid = {}
 objs_by_id = {}
 dropped_by_booster = defaultdict(list)
-dropped_by_location = defaultdict(list)
+dropped_by_location = defaultdict(lambda: defaultdict(int))
 spawns_from_portal = {}
 spawned_in_forest = {
     "elf",
@@ -252,7 +252,10 @@ def sum_spawns(obj):
     if dropped_by_location[id]:
         rows.append(
             f"By exploring "
-            + join(f"[[{name}]] ({c}%)" for name, c in dropped_by_location[id])
+            + join(
+                f"[[{name}]] ({round(c*100)}%)"
+                for name, c in dropped_by_location[id].items()
+            )
         )
     if dropped_by_booster[id]:
         rows.append(
@@ -292,6 +295,12 @@ with open("portal.yaml") as f:
         for e in enemies:
             spawns_from_portal[e] = month
 
+with open("enemy_bags.yaml") as f:
+    enemy_bags = {}
+    for index, enemies in yaml.safe_load(f).items():
+        total = sum(enemies.values())
+        enemy_bags[index] = [(c / total, e) for e, c in enemies.items()]
+
 
 for path, _, files in chain(
     *(os.walk(os.path.join(BASE_PATH, x)) for x in ("cards", "island_cards"))
@@ -316,15 +325,17 @@ for path, _, files in chain(
             objs_by_guid[guid] = obj
             objs_by_id[obj["Id"]] = obj
 
+            # Locations
             if obj["MyCardType"] == 6:
                 name = loc[obj["NameTerm"]]
-                for e in obj["MyCardBag"]["Chances"]:
-                    dropped_by_location[e["Id"]].append(
-                        (
-                            name,
-                            round(e["PercentageChance"] * 100),
-                        )
-                    )
+                for bag in obj["MyCardBag"]["Chances"]:
+                    if bag["IsEnemy"]:
+                        for c, enemy in enemy_bags[bag["EnemyBag"]]:
+                            dropped_by_location[enemy][name] += (
+                                c * bag["PercentageChance"]
+                            )
+                    else:
+                        dropped_by_location[bag["Id"]][name] += bag["PercentageChance"]
 
 
 for guid, obj in objs_by_guid.items():

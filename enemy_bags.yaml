@@ -1,0 +1,20 @@
+0:
+  goblin: 10
+  goblin_archer: 2
+  rat: 1
+  slime: 1
+1:
+  giant_rat: 1
+  skeleton: 
+  mimic: 1
+  slime: 1
+  wolf: 1
+  frog_man: 2
+  goblin_shaman: 3
+  skeleton: 9
+2:
+  mosquito: 3
+  seagull: 1
+  skeleton: 16
+  snake: 1
+  tiger: 1
