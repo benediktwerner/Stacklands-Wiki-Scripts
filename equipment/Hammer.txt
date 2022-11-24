@@ -1,0 +1,31 @@
+{{Stacklands Equipment
+|image = Hammer.png
+|caption = "Slow and blunt but packs a punch"
+|special = 10% chance to [[Status Effects#Status:_Stunned|Stun]] target for 5s
+|hp = 
+|attack_speed = 
+|hit_chance = +1
+|damage = +2
+|defense = 
+|slot = Hand
+|attack_type = Melee
+|level = 5
+|sell_prize = 3
+}}
+'''Hammer''' is a [[:Category:Equipment|Gray]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as [[:Category:Equipment|Equipment]].
+
+==Ways to Obtain==
+*Dropped when killing [[Frog Man]] (22%) if it doesn't have droppable equipment
+*Dropped when killing [[Elf]] or [[Ogre]] spawned with it if this card hasn't been found found yet
+
+==Recipe==
+*1x [[Iron Bar]], 1x [[Stick]], 1x [[Stone]] for 15s
+
+==Used For==
+*[[Builder]]
+
+==See also==
+*[[Idea: Hammer]]
+
+[[Category:Equipment]]
+[[Category:Equipment/Hand]]

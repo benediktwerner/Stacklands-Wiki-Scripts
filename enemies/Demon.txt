@@ -1,0 +1,20 @@
+{{Stacklands Hostile Mob
+|image1 = Demon.png
+|caption1 = "The Final Boss"
+|combat_level  = 174
+|health_points = 299
+|effect = 5% chance to [[Status Effects#Status:_Stunned|Stun]] all enemies for 5s
+|attack_type = Melee
+|attack_speed = Fast (1s)
+|hit_chance = High (80%)
+|damage = Very Strong (5)
+|defense = Normal (Blocks 2)
+}}
+'''Demon''' is a [[:Category:Hostile Mobs|red]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as a [[:Category:Mobs|Mob]].
+
+==Drops==
+*[[Fire Cloak]] (67%)
+*[[Demon Sword]] (33%)
+
+[[Category:Mobs]]
+[[Category:Hostile Mobs]]

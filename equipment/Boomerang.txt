@@ -1,0 +1,30 @@
+{{Stacklands Equipment
+|image = Boomerang.png
+|caption = "Always comes back to you"
+|special = 15% chance to Damage all enemies
+|hp = 
+|attack_speed = 
+|hit_chance = +3
+|damage = +1
+|defense = 
+|slot = Hand
+|attack_type = Ranged
+|level = 5
+|sell_prize = 3
+}}
+'''Boomerang''' is a [[:Category:Equipment|Gray]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as [[:Category:Equipment|Equipment]].
+
+==Way to Obtain==
+*Dropped when killing [[Ogre]] spawned with it if this card hasn't been found found yet
+
+==Recipe==
+*3x [[Plank]], 1x [[Smithy]] for 15s
+
+==Used For==
+*[[Militia]]
+
+==See also==
+*[[Idea: Boomerang]]
+
+[[Category:Equipment]]
+[[Category:Equipment/Hand]]

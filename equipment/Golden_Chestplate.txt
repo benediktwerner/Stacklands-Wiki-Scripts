@@ -1,0 +1,27 @@
+{{Stacklands Equipment
+|image = Golden_Chestplate.png
+|caption = "Slightly overdressed for the event"
+|special = 10% chance to [[Status Effects#Status:_Stunned|Stun]] target for 5s
+|hp = 
+|attack_speed = 
+|hit_chance = 
+|damage = 
+|defense = +3
+|slot = Body
+|attack_type = 
+|level = 9
+|sell_prize = 10
+}}
+'''Golden Chestplate''' is a [[:Category:Equipment|Gray]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as [[:Category:Equipment|Equipment]].
+
+==Way to Obtain==
+*Dropped when killing [[Merman]] spawned with it if this card hasn't been found found yet
+
+==Recipe==
+*2x [[Gold Bar]], 1x [[Smithy]] for 15s
+
+==See also==
+*[[Idea: Golden Chestplate]]
+
+[[Category:Equipment]]
+[[Category:Equipment/Body]]

@@ -1,0 +1,11 @@
+{{Stacklands Idea
+|image1 = Idea - Chainmail Armor.png
+|caption1 = A medieval era classic
+|sell_price = 1
+}}
+'''Idea: Chainmail Armor''' is a blue [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as an [[:Category:Ideas|Idea]]. It explains how to create a [[Chainmail Armor]].
+
+==See also==
+*[[Chainmail Armor]]
+
+[[Category:Ideas]]

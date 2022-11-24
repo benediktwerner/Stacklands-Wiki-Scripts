@@ -1,0 +1,25 @@
+{{Stacklands Equipment
+|image = Magic_Broom.png
+|caption = "You took it from some Old Lady"
+|special = 15% chance to Heal all friendlies by 2
+|hp = 
+|attack_speed = +2
+|hit_chance = +3
+|damage = +2
+|defense = 
+|slot = Hand
+|attack_type = Magic
+|level = 11
+|sell_prize = 10
+}}
+'''Magic Broom''' is a [[:Category:Equipment|Gray]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as [[:Category:Equipment|Equipment]].
+
+==Ways to Obtain==
+*Dropped when killing [[Wicked Witch]] (100%) if it doesn't have droppable equipment
+*Dropped when killing [[Wicked Witch]] spawned with it
+
+==Used For==
+*[[Mage]]
+
+[[Category:Equipment]]
+[[Category:Equipment/Hand]]

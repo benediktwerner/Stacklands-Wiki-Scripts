@@ -1,0 +1,33 @@
+{{Stacklands Hostile Mob
+|image1 = Skeleton.png
+|caption1 = "A monster consisting of a set of bones"
+|combat_level  = 12
+|health_points = 12
+|effect = 5% chance to do a Critical Hit on target
+|attack_type = Melee
+|attack_speed = Slow (2.5s)
+|hit_chance = Normal (70%)
+|damage = Weak (2)
+|defense = Weak (Blocks 1)
+}}
+'''Skeleton''' is a [[:Category:Hostile Mobs|red]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as a [[:Category:Mobs|Mob]].
+
+==How to Spawn==
+*By exploring [[Graveyard]] (12%)
+*From ''The Armory'' (49%), ''Explorers'' (49%), ''Advanced Archipelago'' (54%), or ''Enclave Explorers'' (71%) [[Card Packs]]
+*From [[Strange Portal]] or [[Rare Portal]] starting [[Moon]] 16
+
+==Possible Equipment==
+*'''Head''': [[Helmet]]
+*'''Hand''': [[Spiked Plank]], [[Bone Spear]], or [[Morning Star]]
+*'''Body''': [[Wooden Shield]]
+
+==Drops==
+*If wearing equipment that is uncraftable or hasn't been found yet and no other mob has dropped any equipement in the current fight, one such worn equipment is dropped instead
+*[[Bone]] (22%)
+*[[Skull Helmet]] (22%, only if no other equipment has been dropped yet in the current fight)
+*[[Axe]] (33%, only if no other equipment has been dropped yet in the current fight)
+*[[Magic Dust]] (22%)
+
+[[Category:Mobs]]
+[[Category:Hostile Mobs]]

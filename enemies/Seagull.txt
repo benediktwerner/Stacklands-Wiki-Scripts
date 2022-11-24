@@ -1,0 +1,22 @@
+{{Stacklands Hostile Mob
+|image1 = Seagull.png
+|caption1 = "An angry bird"
+|combat_level  = 7
+|health_points = 6
+|effect = 
+|attack_type = Melee
+|attack_speed = Normal (1.5s)
+|hit_chance = Small (60%)
+|damage = Weak (2)
+|defense = Very Weak (Blocks 0)
+}}
+'''Seagull''' is a [[:Category:Hostile Mobs|red]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as a [[:Category:Mobs|Mob]].
+
+==How to Spawn==
+*From ''Enclave Explorers'' (5%) [[Card Packs]]
+
+==Drops==
+*[[Raw Fish]]
+
+[[Category:Mobs]]
+[[Category:Hostile Mobs]]

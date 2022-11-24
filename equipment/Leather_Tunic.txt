@@ -1,0 +1,22 @@
+{{Stacklands Equipment
+|image = Leather_Tunic.png
+|caption = "Armor made from the finest leather"
+|special = 
+|hp = +10
+|attack_speed = 
+|hit_chance = 
+|damage = 
+|defense = +1
+|slot = Body
+|attack_type = 
+|level = 8
+|sell_prize = 3
+}}
+'''Leather Tunic''' is a [[:Category:Equipment|Gray]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as [[:Category:Equipment|Equipment]].
+
+==Ways to Obtain==
+*Dropped when killing [[Cow]] (11%)
+*Dropped when killing [[Goblin Archer]] or [[Ogre]] spawned with it
+
+[[Category:Equipment]]
+[[Category:Equipment/Body]]

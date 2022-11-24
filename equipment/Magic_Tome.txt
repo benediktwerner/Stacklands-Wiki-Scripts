@@ -1,0 +1,31 @@
+{{Stacklands Equipment
+|image = Magic_Tome.png
+|caption = "An old book with spells in it"
+|special = *10% chance to Heal random friendly by 2
+*10% chance to [[Status Effects#Status:_Frenzy|Frenzy]] random friendly for 10s
+|hp = +10
+|attack_speed = 
+|hit_chance = +1
+|damage = +1
+|defense = 
+|slot = Hand
+|attack_type = Magic
+|level = 11
+|sell_prize = 3
+}}
+'''Magic Tome''' is a [[:Category:Equipment|Gray]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as [[:Category:Equipment|Equipment]].
+
+==Way to Obtain==
+*Dropped when killing [[Merman]] spawned with it if this card hasn't been found found yet
+
+==Recipe==
+*1x [[Magic Dust]], 1x [[Map]], 1x [[Smithy]] for 15s
+
+==Used For==
+*[[Mage]]
+
+==See also==
+*[[Idea: Magic Tome]]
+
+[[Category:Equipment]]
+[[Category:Equipment/Hand]]

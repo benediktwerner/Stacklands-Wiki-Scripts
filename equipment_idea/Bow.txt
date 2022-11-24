@@ -1,0 +1,11 @@
+{{Stacklands Idea
+|image1 = Idea - Bow.png
+|caption1 = Makes you feel like Robin Hood
+|sell_price = 1
+}}
+'''Idea: Bow''' is a blue [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as an [[:Category:Ideas|Idea]]. It explains how to create a [[Bow]].
+
+==See also==
+*[[Bow]]
+
+[[Category:Ideas]]

@@ -1,0 +1,20 @@
+{{Stacklands Hostile Mob
+|image1 = Demon_Lord.png
+|caption1 = "The final, final boss!"
+|combat_level  = 373
+|health_points = 666
+|effect = 10% chance to Lifesteal from random enemy
+|attack_type = Melee
+|attack_speed = Very Fast (0.75s)
+|hit_chance = High (80%)
+|damage = Extremely Strong (6)
+|defense = Strong (Blocks 2)
+}}
+'''Demon Lord''' is a [[:Category:Hostile Mobs|red]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as a [[:Category:Mobs|Mob]].
+
+==Drops==
+*[[Fire Cloak]] (50%)
+*[[Horned Helmet]] (50%)
+
+[[Category:Mobs]]
+[[Category:Hostile Mobs]]

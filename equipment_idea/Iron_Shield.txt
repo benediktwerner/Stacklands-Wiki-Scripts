@@ -1,0 +1,11 @@
+{{Stacklands Idea
+|image1 = Idea - Iron Shield.png
+|caption1 = A strong defense against hard blows
+|sell_price = 1
+}}
+'''Idea: Iron Shield''' is a blue [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as an [[:Category:Ideas|Idea]]. It explains how to create a [[Iron Shield]].
+
+==See also==
+*[[Iron Shield]]
+
+[[Category:Ideas]]

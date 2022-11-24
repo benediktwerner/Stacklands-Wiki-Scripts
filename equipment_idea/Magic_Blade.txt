@@ -1,0 +1,11 @@
+{{Stacklands Idea
+|image1 = Idea - Magic Blade.png
+|caption1 = An ordinary sword that glitters
+|sell_price = 1
+}}
+'''Idea: Magic Blade''' is a blue [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as an [[:Category:Ideas|Idea]]. It explains how to create a [[Magic Blade]].
+
+==See also==
+*[[Magic Blade]]
+
+[[Category:Ideas]]

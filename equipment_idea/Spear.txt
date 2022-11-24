@@ -1,0 +1,11 @@
+{{Stacklands Idea
+|image1 = Idea - Spear.png
+|caption1 = Stick with a pointy end
+|sell_price = 1
+}}
+'''Idea: Spear''' is a blue [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as an [[:Category:Ideas|Idea]]. It explains how to create a [[Spear]].
+
+==See also==
+*[[Spear]]
+
+[[Category:Ideas]]

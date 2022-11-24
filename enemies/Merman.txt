@@ -1,0 +1,30 @@
+{{Stacklands Hostile Mob
+|image1 = Merman.png
+|caption1 = "Half man, half mer"
+|combat_level  = 17
+|health_points = 21
+|effect = 
+|attack_type = Magic
+|attack_speed = Slow (2.5s)
+|hit_chance = Normal (70%)
+|damage = Normal (3)
+|defense = Weak (Blocks 1)
+}}
+'''Merman''' is a [[:Category:Hostile Mobs|red]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as a [[:Category:Mobs|Mob]].
+
+==How to Spawn==
+*From ''Advanced Archipelago'' (7%) [[Card Packs]]
+*From [[Strange Portal]] or [[Rare Portal]] starting [[Moon]] 24
+*By visiting the [[Dark Forest]]
+
+==Possible Equipment==
+*'''Hand''': [[Magic Tome]]
+*'''Body''': [[Golden Chestplate]]
+
+==Drops==
+*If wearing equipment that is uncraftable or hasn't been found yet and no other mob has dropped any equipement in the current fight, one such worn equipment is dropped instead
+*[[Raw Fish]] (50%)
+*[[Magic Dust]] (50%)
+
+[[Category:Mobs]]
+[[Category:Hostile Mobs]]

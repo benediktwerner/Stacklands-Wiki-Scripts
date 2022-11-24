@@ -1,0 +1,30 @@
+{{Stacklands Hostile Mob
+|image1 = Pirate.png
+|caption1 = "A burly angry seaman"
+|combat_level  = 14
+|health_points = 15
+|effect = 10% chance to [[Status Effects#Status:_Stunned|Stun]] target for 5s
+|attack_type = Melee
+|attack_speed = Slow (2.5s)
+|hit_chance = Normal (70%)
+|damage = Weak (2)
+|defense = Weak (Blocks 1)
+}}
+'''Pirate''' is a [[:Category:Hostile Mobs|red]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as a [[:Category:Mobs|Mob]].
+
+==How to Spawn==
+*From ''Advanced Archipelago'' (18%) [[Card Packs]]
+*By visiting the [[Dark Forest]] (wave 4 or above)
+
+==Possible Equipment==
+*'''Hand''': [[Blunderbuss]], [[Pirate Sabre]], or [[Slingshot]]
+*'''Body''': [[Tiger Fur Coat]]
+
+==Drops==
+*If wearing equipment that is uncraftable or hasn't been found yet and no other mob has dropped any equipement in the current fight, one such worn equipment is dropped instead
+*[[Coin]] (60%)
+*[[Pirate Sabre]] (20%, only if no other equipment has been dropped yet in the current fight)
+*[[Pirate Hat]] (20%, only if no other equipment has been dropped yet in the current fight)
+
+[[Category:Mobs]]
+[[Category:Hostile Mobs]]

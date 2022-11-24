@@ -1,0 +1,11 @@
+{{Stacklands Idea
+|image1 = Idea - Boomerang.png
+|caption1 = Always comes back to you
+|sell_price = 1
+}}
+'''Idea: Boomerang''' is a blue [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as an [[:Category:Ideas|Idea]]. It explains how to create a [[Boomerang]].
+
+==See also==
+*[[Boomerang]]
+
+[[Category:Ideas]]

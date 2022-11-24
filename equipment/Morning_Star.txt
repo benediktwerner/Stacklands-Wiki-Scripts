@@ -1,0 +1,24 @@
+{{Stacklands Equipment
+|image = Morning_Star.png
+|caption = "Spikes on a stick"
+|special = 15% chance to [[Status Effects#Status:_Stunned|Stun]] random enemy for 5s
+|hp = 
+|attack_speed = -1
+|hit_chance = 
+|damage = +3
+|defense = +1
+|slot = Hand
+|attack_type = Melee
+|level = 8
+|sell_prize = 4
+}}
+'''Morning Star''' is a [[:Category:Equipment|Gray]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as [[:Category:Equipment|Equipment]].
+
+==Way to Obtain==
+*Dropped when killing [[Skeleton]] or [[Ogre]] spawned with it
+
+==Used For==
+*[[Warrior]]
+
+[[Category:Equipment]]
+[[Category:Equipment/Hand]]

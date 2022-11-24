@@ -1,0 +1,30 @@
+{{Stacklands Equipment
+|image = Bone_Staff.png
+|caption = "A bone with special abilities"
+|special = 20% chance to Lifesteal from target
+|hp = -6
+|attack_speed = +1
+|hit_chance = 
+|damage = +2
+|defense = 
+|slot = Hand
+|attack_type = Magic
+|level = 4
+|sell_prize = 3
+}}
+'''Bone Staff''' is a [[:Category:Equipment|Gray]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as [[:Category:Equipment|Equipment]].
+
+==Way to Obtain==
+*Dropped when killing [[Dark Elf]] or [[Goblin Shaman]] spawned with it if this card hasn't been found found yet
+
+==Recipe==
+*1x [[Magic Staff]], 1x [[Bone]], 1x [[Gold Bar]], 1x [[Smithy]] for 15s
+
+==Used For==
+*[[Mage]]
+
+==See also==
+*[[Idea: Bone Staff]]
+
+[[Category:Equipment]]
+[[Category:Equipment/Hand]]

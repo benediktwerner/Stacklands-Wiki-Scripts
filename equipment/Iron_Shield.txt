@@ -1,0 +1,27 @@
+{{Stacklands Equipment
+|image = Iron_Shield.png
+|caption = "A strong defense against hard blows"
+|special = 10% chance to [[Status Effects#Status:_Stunned|Stun]] target for 5s
+|hp = 
+|attack_speed = 
+|hit_chance = 
+|damage = 
+|defense = +2
+|slot = Body
+|attack_type = 
+|level = 7
+|sell_prize = 3
+}}
+'''Iron Shield''' is a [[:Category:Equipment|Gray]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as [[:Category:Equipment|Equipment]].
+
+==Way to Obtain==
+*Dropped when killing [[Elf]] spawned with it if this card hasn't been found found yet
+
+==Recipe==
+*1x [[Iron Bar]], 1x [[Plank]], 1x [[Smithy]] for 15s
+
+==See also==
+*[[Idea: Iron Shield]]
+
+[[Category:Equipment]]
+[[Category:Equipment/Body]]

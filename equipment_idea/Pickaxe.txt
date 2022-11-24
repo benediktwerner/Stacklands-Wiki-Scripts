@@ -1,0 +1,11 @@
+{{Stacklands Idea
+|image1 = Idea - Pickaxe.png
+|caption1 = A stick with two pointy ends
+|sell_price = 1
+}}
+'''Idea: Pickaxe''' is a blue [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as an [[:Category:Ideas|Idea]]. It explains how to create a [[Pickaxe]].
+
+==See also==
+*[[Pickaxe]]
+
+[[Category:Ideas]]

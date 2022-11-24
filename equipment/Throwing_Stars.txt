@@ -1,0 +1,30 @@
+{{Stacklands Equipment
+|image = Throwing_Stars.png
+|caption = "Fast and accurate, ninjas love them"
+|special = 
+|hp = 
+|attack_speed = +3
+|hit_chance = +1
+|damage = +1
+|defense = 
+|slot = Hand
+|attack_type = Ranged
+|level = 6
+|sell_prize = 5
+}}
+'''Throwing Stars''' is a [[:Category:Equipment|Gray]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as [[:Category:Equipment|Equipment]].
+
+==Way to Obtain==
+*Dropped when killing [[Ogre]] spawned with it if this card hasn't been found found yet
+
+==Recipe==
+*3x [[Iron Bar]], 1x [[Smithy]] for 15s
+
+==Used For==
+*[[Ninja]]
+
+==See also==
+*[[Idea: Throwing Stars]]
+
+[[Category:Equipment]]
+[[Category:Equipment/Hand]]

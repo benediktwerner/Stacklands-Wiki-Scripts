@@ -1,0 +1,19 @@
+{{Stacklands Hostile Mob
+|image1 = Kraken.png
+|caption1 = "Mad that you took its relic"
+|combat_level  = 150
+|health_points = 250
+|effect = 20% chance to [[Status Effects#Status:_Stunned|Stun]] all enemies for 5s
+|attack_type = Melee
+|attack_speed = Fast (1s)
+|hit_chance = Normal (70%)
+|damage = Very Strong (5)
+|defense = Normal (Blocks 2)
+}}
+'''Kraken''' is a [[:Category:Hostile Mobs|red]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as a [[:Category:Mobs|Mob]].
+
+==Drops==
+*[[Kraken Tooth Axe]]
+
+[[Category:Mobs]]
+[[Category:Hostile Mobs]]

@@ -1,0 +1,24 @@
+{{Stacklands Equipment
+|image = Kraken_Tooth_Axe.png
+|caption = "Left for the tooth fairy, you took it instead"
+|special = 20% chance to do a Critical Hit on target
+|hp = +5
+|attack_speed = 
+|hit_chance = +2
+|damage = +2
+|defense = +1
+|slot = Hand
+|attack_type = Melee
+|level = 12
+|sell_prize = 8
+}}
+'''Kraken Tooth Axe''' is a [[:Category:Equipment|Gray]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as [[:Category:Equipment|Equipment]].
+
+==Way to Obtain==
+*Dropped when killing [[Kraken]] (100%)
+
+==Used For==
+*[[Militia]]
+
+[[Category:Equipment]]
+[[Category:Equipment/Hand]]

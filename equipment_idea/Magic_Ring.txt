@@ -1,0 +1,11 @@
+{{Stacklands Idea
+|image1 = Idea - Magic Ring.png
+|caption1 = Once it slides on your finger it grants you magic powers
+|sell_price = 1
+}}
+'''Idea: Magic Ring''' is a blue [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as an [[:Category:Ideas|Idea]]. It explains how to create a [[Magic Ring]].
+
+==See also==
+*[[Magic Ring]]
+
+[[Category:Ideas]]

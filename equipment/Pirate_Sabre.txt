@@ -1,0 +1,25 @@
+{{Stacklands Equipment
+|image = Pirate_Sabre.png
+|caption = "Designed for swashbucklers"
+|special = 7% chance to make self [[Status Effects#Status:_Invulnerable|Invulnerable]] for 10s
+|hp = 
+|attack_speed = +2
+|hit_chance = +1
+|damage = +1
+|defense = 
+|slot = Hand
+|attack_type = Melee
+|level = 5
+|sell_prize = 5
+}}
+'''Pirate Sabre''' is a [[:Category:Equipment|Gray]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as [[:Category:Equipment|Equipment]].
+
+==Ways to Obtain==
+*Dropped when killing [[Pirate]] (20%) if it doesn't have droppable equipment
+*Dropped when killing [[Pirate]] spawned with it
+
+==Used For==
+*[[Swordsman]]
+
+[[Category:Equipment]]
+[[Category:Equipment/Hand]]

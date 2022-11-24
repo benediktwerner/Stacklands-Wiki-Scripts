@@ -1,0 +1,11 @@
+{{Stacklands Idea
+|image1 = Idea - Magic Tome.png
+|caption1 = An old book with spells in it
+|sell_price = 1
+}}
+'''Idea: Magic Tome''' is a blue [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as an [[:Category:Ideas|Idea]]. It explains how to create a [[Magic Tome]].
+
+==See also==
+*[[Magic Tome]]
+
+[[Category:Ideas]]

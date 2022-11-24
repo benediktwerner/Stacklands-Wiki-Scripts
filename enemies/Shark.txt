@@ -1,0 +1,19 @@
+{{Stacklands Hostile Mob
+|image1 = Shark.png
+|caption1 = "A type of big angry fish"
+|combat_level  = 20
+|health_points = 15
+|effect = 10% chance to [[Status Effects#Status:_Bleeding|Bleed]] target
+|attack_type = Melee
+|attack_speed = Normal (1.5s)
+|hit_chance = Normal (70%)
+|damage = Normal (3)
+|defense = Normal (Blocks 2)
+}}
+'''Shark''' is a [[:Category:Hostile Mobs|red]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as a [[:Category:Mobs|Mob]].
+
+==Drops==
+*3x [[Raw Fish]]
+
+[[Category:Mobs]]
+[[Category:Hostile Mobs]]

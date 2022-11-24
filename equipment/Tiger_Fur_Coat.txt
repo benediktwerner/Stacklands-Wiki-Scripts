@@ -1,0 +1,22 @@
+{{Stacklands Equipment
+|image = Tiger_Fur_Coat.png
+|caption = "Trashy but at least it makes you feel strong"
+|special = 
+|hp = +10
+|attack_speed = 
+|hit_chance = 
+|damage = 
+|defense = +1
+|slot = Body
+|attack_type = 
+|level = 8
+|sell_prize = 5
+}}
+'''Tiger Fur Coat''' is a [[:Category:Equipment|Gray]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as [[:Category:Equipment|Equipment]].
+
+==Ways to Obtain==
+*Dropped when killing [[Tiger]] (42%)
+*Dropped when killing [[Pirate]] spawned with it
+
+[[Category:Equipment]]
+[[Category:Equipment/Body]]

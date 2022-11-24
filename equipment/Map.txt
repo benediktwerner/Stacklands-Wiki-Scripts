@@ -1,0 +1,24 @@
+{{Stacklands Equipment
+|image = Map.png
+|caption = "Use a Map to turn a Villager into an Explorer"
+|special = 
+|hp = 
+|attack_speed = 
+|hit_chance = 
+|damage = -1
+|defense = 
+|slot = Hand
+|attack_type = Melee
+|level = 1
+|sell_prize = 3
+}}
+'''Map''' is a [[:Category:Equipment|Gray]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as [[:Category:Equipment|Equipment]].
+
+==Way to Obtain==
+*Dropped when killing [[Goblin]] (33%) if it doesn't have droppable equipment
+
+==Used For==
+*[[Explorer]]
+
+[[Category:Equipment]]
+[[Category:Equipment/Hand]]

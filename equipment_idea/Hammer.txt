@@ -1,0 +1,11 @@
+{{Stacklands Idea
+|image1 = Idea - Hammer.png
+|caption1 = Slow and blunt but packs a punch
+|sell_price = 1
+}}
+'''Idea: Hammer''' is a blue [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as an [[:Category:Ideas|Idea]]. It explains how to create a [[Hammer]].
+
+==See also==
+*[[Hammer]]
+
+[[Category:Ideas]]

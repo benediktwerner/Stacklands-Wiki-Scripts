@@ -1,0 +1,11 @@
+{{Stacklands Idea
+|image1 = Idea - Blunderbuss.png
+|caption1 = Watch out! Could blow up in your own face
+|sell_price = 1
+}}
+'''Idea: Blunderbuss''' is a blue [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as an [[:Category:Ideas|Idea]]. It explains how to create a [[Blunderbuss]].
+
+==See also==
+*[[Blunderbuss]]
+
+[[Category:Ideas]]

@@ -1,0 +1,11 @@
+{{Stacklands Idea
+|image1 = Idea - Axe.png
+|caption1 = For chopping wood and monsters
+|sell_price = 1
+}}
+'''Idea: Axe''' is a blue [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as an [[:Category:Ideas|Idea]]. It explains how to create a [[Axe]].
+
+==See also==
+*[[Axe]]
+
+[[Category:Ideas]]

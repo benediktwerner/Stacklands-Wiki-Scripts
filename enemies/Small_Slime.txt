@@ -1,0 +1,22 @@
+{{Stacklands Hostile Mob
+|image1 = Small_Slime.png
+|caption1 = "A goodie-filled goo"
+|combat_level  = 4
+|health_points = 4
+|effect = 
+|attack_type = Melee
+|attack_speed = Very Slow (3.5s)
+|hit_chance = Normal (70%)
+|damage = Weak (2)
+|defense = Very Weak (Blocks 0)
+}}
+'''Small Slime''' is a [[:Category:Hostile Mobs|red]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as a [[:Category:Mobs|Mob]].
+
+==Drops==
+*[[Coin]] (40%)
+*[[Egg]] (20%)
+*[[Magic Dust]] (30%)
+*[[Key]] (10%)
+
+[[Category:Mobs]]
+[[Category:Hostile Mobs]]

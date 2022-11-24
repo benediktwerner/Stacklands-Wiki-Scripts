@@ -1,0 +1,24 @@
+{{Stacklands Equipment
+|image = Forest_Amulet.png
+|caption = "You feel the healing power of nature running through you"
+|special = 10% chance to Heal friendly with lowest health by 2
+|hp = +5
+|attack_speed = +2
+|hit_chance = 
+|damage = 
+|defense = 
+|slot = Head
+|attack_type = 
+|level = 6
+|sell_prize = 8
+}}
+'''Forest Amulet''' is a [[:Category:Equipment|Gray]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as [[:Category:Equipment|Equipment]].
+
+==Recipe==
+*2x [[Gold Bar]], 1x [[Magic Dust]], 1x [[Wood]], 1x [[Smithy]] for 15s
+
+==See also==
+*[[Idea: Forest Amulet]]
+
+[[Category:Equipment]]
+[[Category:Equipment/Head]]

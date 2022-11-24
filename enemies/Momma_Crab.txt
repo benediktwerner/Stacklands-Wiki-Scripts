@@ -1,0 +1,19 @@
+{{Stacklands Hostile Mob
+|image1 = Momma_Crab.png
+|caption1 = "Maybe you shouldn't have killed those Crabs?"
+|combat_level  = 67
+|health_points = 100
+|effect = 20% chance to [[Status Effects#Status:_Stunned|Stun]] target for 5s
+|attack_type = Melee
+|attack_speed = Fast (1s)
+|hit_chance = Normal (70%)
+|damage = Weak (2)
+|defense = Strong (Blocks 2)
+}}
+'''Momma Crab''' is a [[:Category:Hostile Mobs|red]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as a [[:Category:Mobs|Mob]].
+
+==Drops==
+*3x [[Crab Scale Armor]]
+
+[[Category:Mobs]]
+[[Category:Hostile Mobs]]

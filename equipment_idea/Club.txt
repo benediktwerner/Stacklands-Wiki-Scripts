@@ -1,0 +1,11 @@
+{{Stacklands Idea
+|image1 = Idea - Club.png
+|caption1 = Not used for playing baseball
+|sell_price = 1
+}}
+'''Idea: Club''' is a blue [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as an [[:Category:Ideas|Idea]]. It explains how to create a [[Club]].
+
+==See also==
+*[[Club]]
+
+[[Category:Ideas]]

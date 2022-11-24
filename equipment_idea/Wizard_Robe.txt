@@ -1,0 +1,11 @@
+{{Stacklands Idea
+|image1 = Idea - Wizard Robe.png
+|caption1 = It's like a magical snuggie
+|sell_price = 1
+}}
+'''Idea: Wizard Robe''' is a blue [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as an [[:Category:Ideas|Idea]]. It explains how to create a [[Wizard Robe]].
+
+==See also==
+*[[Wizard Robe]]
+
+[[Category:Ideas]]

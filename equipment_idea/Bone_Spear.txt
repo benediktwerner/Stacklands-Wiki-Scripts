@@ -1,0 +1,11 @@
+{{Stacklands Idea
+|image1 = Idea - Bone Spear.png
+|caption1 = Intimidating version of a regular Spear
+|sell_price = 1
+}}
+'''Idea: Bone Spear''' is a blue [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as an [[:Category:Ideas|Idea]]. It explains how to create a [[Bone Spear]].
+
+==See also==
+*[[Bone Spear]]
+
+[[Category:Ideas]]

@@ -1,0 +1,30 @@
+{{Stacklands Equipment
+|image = Bone_Spear.png
+|caption = "Intimidating version of a regular Spear"
+|special = 10% chance to do a Critical Hit on target
+|hp = 
+|attack_speed = 
+|hit_chance = +1
+|damage = +2
+|defense = 
+|slot = Hand
+|attack_type = Melee
+|level = 5
+|sell_prize = 5
+}}
+'''Bone Spear''' is a [[:Category:Equipment|Gray]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as [[:Category:Equipment|Equipment]].
+
+==Way to Obtain==
+*Dropped when killing [[Giant Rat]], [[Goblin]], or [[Skeleton]] spawned with it if this card hasn't been found found yet
+
+==Recipe==
+*1x [[Spear]], 2x [[Bone]] for 15s
+
+==Used For==
+*[[Militia]]
+
+==See also==
+*[[Idea: Bone Spear]]
+
+[[Category:Equipment]]
+[[Category:Equipment/Hand]]

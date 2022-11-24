@@ -1,0 +1,22 @@
+{{Stacklands Equipment
+|image = Quiver.png
+|caption = "Makes you more efficient"
+|special = 10% chance to [[Status Effects#Status:_Bleeding|Bleed]] target
+|hp = 
+|attack_speed = +2
+|hit_chance = 
+|damage = 
+|defense = 
+|slot = Body
+|attack_type = 
+|level = 4
+|sell_prize = 3
+}}
+'''Quiver''' is a [[:Category:Equipment|Gray]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as [[:Category:Equipment|Equipment]].
+
+==Ways to Obtain==
+*Dropped when killing [[Elf Archer]] (20%) or [[Goblin Archer]] (20%) if they don't have droppable equipment
+*Dropped when killing [[Elf Archer]] spawned with it
+
+[[Category:Equipment]]
+[[Category:Equipment/Body]]

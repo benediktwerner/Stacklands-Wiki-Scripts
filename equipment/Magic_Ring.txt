@@ -1,0 +1,30 @@
+{{Stacklands Equipment
+|image = Magic_Ring.png
+|caption = "Once it slides on your finger it grants you magic powers"
+|special = 10% chance to make random friendly [[Status Effects#Status:_Invulnerable|Invulnerable]] for 10s
+|hp = +10
+|attack_speed = 
+|hit_chance = +1
+|damage = +1
+|defense = 
+|slot = Hand
+|attack_type = Magic
+|level = 9
+|sell_prize = 3
+}}
+'''Magic Ring''' is a [[:Category:Equipment|Gray]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as [[:Category:Equipment|Equipment]].
+
+==Way to Obtain==
+*Dropped when killing [[Dark Elf]] spawned with it if this card hasn't been found found yet
+
+==Recipe==
+*1x [[Magic Dust]], 2x [[Coin]], 1x [[Smithy]] for 15s
+
+==Used For==
+*[[Mage]]
+
+==See also==
+*[[Idea: Magic Ring]]
+
+[[Category:Equipment]]
+[[Category:Equipment/Hand]]

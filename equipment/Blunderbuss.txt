@@ -1,0 +1,31 @@
+{{Stacklands Equipment
+|image = Blunderbuss.png
+|caption = "Watch out! Could blow up in your own face"
+|special = *15% chance to Damage all enemies
+*10% chance to do a Critical Hit on self
+|hp = 
+|attack_speed = 
+|hit_chance = -1
+|damage = +4
+|defense = 
+|slot = Hand
+|attack_type = Ranged
+|level = 9
+|sell_prize = 6
+}}
+'''Blunderbuss''' is a [[:Category:Equipment|Gray]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as [[:Category:Equipment|Equipment]].
+
+==Way to Obtain==
+*Dropped when killing [[Pirate]] spawned with it if this card hasn't been found found yet
+
+==Recipe==
+*1x [[Gold Bar]], 1x [[Iron Bar]], 1x [[Plank]], 1x [[Flint]], 1x [[Smithy]] for 15s
+
+==Used For==
+*[[Militia]]
+
+==See also==
+*[[Idea: Blunderbuss]]
+
+[[Category:Equipment]]
+[[Category:Equipment/Hand]]

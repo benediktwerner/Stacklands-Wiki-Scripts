@@ -1,0 +1,11 @@
+{{Stacklands Idea
+|image1 = Idea - Sword.png
+|caption1 = An Iron Bar with a pointy end
+|sell_price = 1
+}}
+'''Idea: Sword''' is a blue [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as an [[:Category:Ideas|Idea]]. It explains how to create a [[Sword]].
+
+==See also==
+*[[Sword]]
+
+[[Category:Ideas]]

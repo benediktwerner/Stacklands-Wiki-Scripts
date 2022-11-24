@@ -1,0 +1,30 @@
+{{Stacklands Hostile Mob
+|image1 = Giant_Rat.png
+|caption1 = "Big version of a small Rat"
+|combat_level  = 19
+|health_points = 20
+|effect = 
+|attack_type = Melee
+|attack_speed = Normal (1.5s)
+|hit_chance = Normal (70%)
+|damage = Normal (3)
+|defense = Weak (Blocks 1)
+}}
+'''Giant Rat''' is a [[:Category:Hostile Mobs|red]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as a [[:Category:Mobs|Mob]].
+
+==How to Spawn==
+*From ''The Armory'' (21%) or ''Explorers'' (21%) [[Card Packs]]
+*From [[Strange Portal]] or [[Rare Portal]] starting [[Moon]] 16
+
+==Possible Equipment==
+*'''Hand''': [[Bone Spear]], [[Spiked Plank]], [[Slingshot]], or [[Bow]]
+*'''Body''': [[Wooden Shield]]
+
+==Drops==
+*If wearing equipment that is uncraftable or hasn't been found yet and no other mob has dropped any equipement in the current fight, one such worn equipment is dropped instead
+*[[Raw Meat]] (33%)
+*[[Bone]] (33%)
+*[[Rat Crown]] (33%, only if no other equipment has been dropped yet in the current fight)
+
+[[Category:Mobs]]
+[[Category:Hostile Mobs]]

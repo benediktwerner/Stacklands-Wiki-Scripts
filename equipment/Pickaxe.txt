@@ -1,0 +1,31 @@
+{{Stacklands Equipment
+|image = Pickaxe.png
+|caption = "A stick with two pointy ends"
+|special = 10% chance to do a Critical Hit on target
+|hp = 
+|attack_speed = -1
+|hit_chance = 
+|damage = +2
+|defense = 
+|slot = Hand
+|attack_type = Melee
+|level = 4
+|sell_prize = 3
+}}
+'''Pickaxe''' is a [[:Category:Equipment|Gray]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as [[:Category:Equipment|Equipment]].
+
+==Ways to Obtain==
+*Dropped when killing [[Frog Man]] (22%) if it doesn't have droppable equipment
+*Dropped when killing [[Goblin]] or [[Elf]] spawned with it if this card hasn't been found found yet
+
+==Recipe==
+*1x [[Iron Bar]], 1x [[Stick]], 1x [[Flint]] for 15s
+
+==Used For==
+*[[Miner]]
+
+==See also==
+*[[Idea: Pickaxe]]
+
+[[Category:Equipment]]
+[[Category:Equipment/Hand]]

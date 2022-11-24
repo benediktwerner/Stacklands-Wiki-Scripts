@@ -1,0 +1,27 @@
+{{Stacklands Equipment
+|image = Wooden_Shield.png
+|caption = "A basic defense against hard blows"
+|special = 
+|hp = 
+|attack_speed = 
+|hit_chance = 
+|damage = +1
+|defense = +1
+|slot = Body
+|attack_type = 
+|level = 3
+|sell_prize = 3
+}}
+'''Wooden Shield''' is a [[:Category:Equipment|Gray]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as [[:Category:Equipment|Equipment]].
+
+==Way to Obtain==
+*Dropped when killing [[Giant Rat]], [[Goblin]], [[Skeleton]], or [[Ent]] spawned with it if this card hasn't been found found yet
+
+==Recipe==
+*1x [[Plank]], 1x [[Stick]] for 15s
+
+==See also==
+*[[Idea: Wooden Shield]]
+
+[[Category:Equipment]]
+[[Category:Equipment/Body]]

@@ -1,0 +1,30 @@
+{{Stacklands Equipment
+|image = Slingshot.png
+|caption = "Very inaccurately hurl rocks at enemies"
+|special = 25% chance to Damage random enemy
+|hp = 
+|attack_speed = +1
+|hit_chance = +1
+|damage = +1
+|defense = 
+|slot = Hand
+|attack_type = Ranged
+|level = 7
+|sell_prize = 5
+}}
+'''Slingshot''' is a [[:Category:Equipment|Gray]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as [[:Category:Equipment|Equipment]].
+
+==Way to Obtain==
+*Dropped when killing [[Giant Rat]], [[Goblin Archer]], [[Mosquito]], or [[Pirate]] spawned with it if this card hasn't been found found yet
+
+==Recipe==
+*2x [[Stick]], 1x [[Stone]] for 15s
+
+==Used For==
+*[[Militia]]
+
+==See also==
+*[[Idea: Slingshot]]
+
+[[Category:Equipment]]
+[[Category:Equipment/Hand]]

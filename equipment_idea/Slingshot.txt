@@ -1,0 +1,11 @@
+{{Stacklands Idea
+|image1 = Idea - Slingshot.png
+|caption1 = Very inaccurately hurl rocks at enemies
+|sell_price = 1
+}}
+'''Idea: Slingshot''' is a blue [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as an [[:Category:Ideas|Idea]]. It explains how to create a [[Slingshot]].
+
+==See also==
+*[[Slingshot]]
+
+[[Category:Ideas]]

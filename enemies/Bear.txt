@@ -1,0 +1,27 @@
+{{Stacklands Hostile Mob
+|image1 = Bear.png
+|caption1 = "Soft yet dangerous"
+|combat_level  = 22
+|health_points = 25
+|effect = 10% chance to do a Critical Hit on target
+|attack_type = Melee
+|attack_speed = Slow (2.5s)
+|hit_chance = Small (60%)
+|damage = Normal (3)
+|defense = Normal (Blocks 2)
+}}
+'''Bear''' is a [[:Category:Hostile Mobs|red]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as a [[:Category:Mobs|Mob]].
+
+==How to Spawn==
+*By exploring [[Mountain]] (13%)
+*From ''The Armory'' (3%) or ''Explorers'' (3%) [[Card Packs]]
+*From [[Strange Portal]] or [[Rare Portal]] starting [[Moon]] 16
+
+==Drops==
+*[[Raw Meat]] (27%)
+*[[Poop]] (27%)
+*[[Bone]] (27%)
+*[[Bear Claw]] (20%, only if no other equipment has been dropped yet in the current fight)
+
+[[Category:Mobs]]
+[[Category:Hostile Mobs]]

@@ -1,0 +1,21 @@
+{{Stacklands Equipment
+|image = Skull_Helmet.png
+|caption = "Kinda messed up"
+|special = 10% chance to Lifesteal from target
+|hp = +5
+|attack_speed = 
+|hit_chance = 
+|damage = +2
+|defense = +2
+|slot = Head
+|attack_type = 
+|level = 11
+|sell_prize = 8
+}}
+'''Skull Helmet''' is a [[:Category:Equipment|Gray]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as [[:Category:Equipment|Equipment]].
+
+==Way to Obtain==
+*Dropped when killing [[Skeleton]] (22%) if it doesn't have droppable equipment
+
+[[Category:Equipment]]
+[[Category:Equipment/Head]]

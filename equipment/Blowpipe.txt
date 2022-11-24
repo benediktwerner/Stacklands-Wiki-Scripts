@@ -1,0 +1,25 @@
+{{Stacklands Equipment
+|image = Blowpipe.png
+|caption = "Blow as hard as you can"
+|special = 10% chance to [[Status Effects#Status:_Poisoned|Poison]] target
+|hp = 
+|attack_speed = -1
+|hit_chance = +1
+|damage = +1
+|defense = 
+|slot = Hand
+|attack_type = Ranged
+|level = 4
+|sell_prize = 3
+}}
+'''Blowpipe''' is a [[:Category:Equipment|Gray]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as [[:Category:Equipment|Equipment]].
+
+==Ways to Obtain==
+*Dropped when killing [[Frog Man]] (11%) if it doesn't have droppable equipment
+*Dropped when killing [[Frog Man]] or [[Mosquito]] spawned with it
+
+==Used For==
+*[[Militia]]
+
+[[Category:Equipment]]
+[[Category:Equipment/Hand]]

@@ -1,0 +1,31 @@
+{{Stacklands Hostile Mob
+|image1 = Elf_Archer.png
+|caption1 = "Elves are the best archers"
+|combat_level  = 12
+|health_points = 15
+|effect = 
+|attack_type = Ranged
+|attack_speed = Slow (2.5s)
+|hit_chance = Normal (70%)
+|damage = Weak (2)
+|defense = Weak (Blocks 1)
+}}
+'''Elf Archer''' is a [[:Category:Hostile Mobs|red]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as a [[:Category:Mobs|Mob]].
+
+==How to Spawn==
+*From [[Strange Portal]] or [[Rare Portal]] starting [[Moon]] 24
+*By visiting the [[Dark Forest]]
+
+==Possible Equipment==
+*'''Head''': [[Helmet]]
+*'''Hand''': [[Bow]] or [[Crossbow]]
+*'''Body''': [[Chainmail Armor]] or [[Quiver]]
+
+==Drops==
+*If wearing equipment that is uncraftable or hasn't been found yet and no other mob has dropped any equipement in the current fight, one such worn equipment is dropped instead
+*[[Raw Meat]] (40%)
+*[[Bone]] (40%)
+*[[Quiver]] (20%, only if no other equipment has been dropped yet in the current fight)
+
+[[Category:Mobs]]
+[[Category:Hostile Mobs]]

@@ -1,0 +1,11 @@
+{{Stacklands Idea
+|image1 = Idea - Throwing Stars.png
+|caption1 = Fast and accurate, ninjas love them
+|sell_price = 1
+}}
+'''Idea: Throwing Stars''' is a blue [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as an [[:Category:Ideas|Idea]]. It explains how to create a [[Throwing Stars]].
+
+==See also==
+*[[Throwing Stars]]
+
+[[Category:Ideas]]

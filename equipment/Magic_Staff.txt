@@ -1,0 +1,31 @@
+{{Stacklands Equipment
+|image = Magic_Staff.png
+|caption = "A long, enchanted rod"
+|special = *15% chance to Heal friendly with lowest health by 2
+*10% chance to do a Critical Hit on target
+|hp = 
+|attack_speed = +1
+|hit_chance = 
+|damage = +2
+|defense = 
+|slot = Hand
+|attack_type = Magic
+|level = 8
+|sell_prize = 5
+}}
+'''Magic Staff''' is a [[:Category:Equipment|Gray]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as [[:Category:Equipment|Equipment]].
+
+==Way to Obtain==
+*Dropped when killing [[Dark Elf]] spawned with it if this card hasn't been found found yet
+
+==Recipe==
+*1x [[Magic Dust]], 1x [[Wood]], 1x [[Smithy]] for 15s
+
+==Used For==
+*[[Wizard]]
+
+==See also==
+*[[Idea: Magic Staff]]
+
+[[Category:Equipment]]
+[[Category:Equipment/Hand]]

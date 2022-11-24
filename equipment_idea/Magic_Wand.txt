@@ -1,0 +1,11 @@
+{{Stacklands Idea
+|image1 = Idea - Magic Wand.png
+|caption1 = A simple magic weapon
+|sell_price = 1
+}}
+'''Idea: Magic Wand''' is a blue [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as an [[:Category:Ideas|Idea]]. It explains how to create a [[Magic Wand]].
+
+==See also==
+*[[Magic Wand]]
+
+[[Category:Ideas]]

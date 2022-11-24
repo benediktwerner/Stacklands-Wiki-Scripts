@@ -1,0 +1,11 @@
+{{Stacklands Idea
+|image1 = Idea - Broken Bottle.png
+|caption1 = Cut out for the job
+|sell_price = 1
+}}
+'''Idea: Broken Bottle''' is a blue [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as an [[:Category:Ideas|Idea]]. It explains how to create a [[Broken Bottle]].
+
+==See also==
+*[[Broken Bottle]]
+
+[[Category:Ideas]]
