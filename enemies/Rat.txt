@@ -13,7 +13,7 @@
 '''Rat''' is a [[:Category:Hostile Mobs|red]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as a [[:Category:Mobs|Mob]].
 
 ==How to Spawn==
-*By exploring [[Forest]] (1%), [[Mountain]] (1%), [[Old Village]] (0%), or [[Plains]] (14%)
+*By exploring [[Forest]] (4%), [[Mountain]] (3%), [[Old Village]] (1%), or [[Plains]] (14%)
 *From ''Humble Beginnings'' (9%) [[Card Packs]]
 *From [[Strange Portal]] or [[Rare Portal]] starting [[Moon]] 12
 

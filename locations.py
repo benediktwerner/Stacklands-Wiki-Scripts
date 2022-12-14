@@ -7,7 +7,7 @@ import yaml
 from itertools import chain
 
 BASE_PATH = (
-    "/mnt/g/extracted/stacklands/v1.2.6/Stacklands/ExportedProject/Assets/Resources"
+    "/mnt/g/extracted/stacklands/v1.3.0/Stacklands/ExportedProject/Assets/Resources"
 )
 
 
@@ -67,6 +67,10 @@ for path, _, files in chain(
                         spawns[bag["Id"]] += bag["PercentageChance"]
                 for spawn, chance in sorted(spawns.items(), key=lambda x: -x[1]):
                     print(
-                        "*[[" + loc_id(spawn) + "]] (" + str(round(chance * 100)) + "%)"
+                        "**[["
+                        + loc_id(spawn)
+                        + "]] ("
+                        + str(round(chance * 100))
+                        + "%)"
                     )
                 print()

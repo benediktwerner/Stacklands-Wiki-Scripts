@@ -7,7 +7,7 @@ import yaml
 from itertools import chain
 
 BASE_PATH = (
-    "/mnt/g/extracted/stacklands/v1.2.6/Stacklands/ExportedProject/Assets/Resources"
+    "/mnt/g/extracted/stacklands/v1.3.0/Stacklands/ExportedProject/Assets/Resources"
 )
 OUT_PATH = "enemies"
 ATTACK_TYPE = ["", "Melee", "Ranged", "Magic"]

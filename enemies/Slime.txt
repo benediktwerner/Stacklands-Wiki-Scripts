@@ -13,8 +13,8 @@
 '''Slime''' is a [[:Category:Hostile Mobs|red]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as a [[:Category:Mobs|Mob]].
 
 ==How to Spawn==
-*By exploring [[Catacombs]] (5%), [[Forest]] (1%), [[Mountain]] (1%), or [[Old Village]] (9%)
-*From ''The Armory'' (3%) or ''Explorers'' (3%) [[Card Packs]]
+*By exploring [[Catacombs]] (13%), [[Forest]] (4%), [[Mountain]] (3%), or [[Old Village]] (10%)
+*From ''The Armory'' (12.5%) or ''Explorers'' (12.5%) [[Card Packs]]
 *From [[Strange Portal]] or [[Rare Portal]] starting [[Moon]] 12
 
 [[Category:Mobs]]

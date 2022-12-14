@@ -13,7 +13,7 @@
 '''Orc Wizard''' is a [[:Category:Hostile Mobs|red]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as a [[:Category:Mobs|Mob]].
 
 ==How to Spawn==
-*From ''Advanced Archipelago'' (14%) [[Card Packs]]
+*From ''Advanced Archipelago'' (20%) [[Card Packs]]
 *By visiting the [[Dark Forest]] (wave 4 or above)
 
 ==Possible Equipment==

@@ -13,8 +13,8 @@
 '''Snake''' is a [[:Category:Hostile Mobs|red]] [[Cards|Card]] in [[Stacklands]]. In the [[Cardopedia]], it is categorized as a [[:Category:Mobs|Mob]].
 
 ==How to Spawn==
-*By exploring [[Cave]] (5%)
-*From ''Enclave Explorers'' (5%) [[Card Packs]]
+*By exploring [[Cave]] (20%)
+*From ''Enclave Explorers'' (20%) [[Card Packs]]
 
 ==Drops==
 *[[Raw Meat]]

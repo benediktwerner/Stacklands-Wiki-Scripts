@@ -1,33 +1,33 @@
 The Armory:
-  skeleton: 49%
-  giant_rat: 21%
-  goblin_shaman: 12%
-  frog_man: 6%
-  mimic: 3%
-  wolf: 3%
-  slime: 3%
-  bear: 3%
+  skeleton: 12.5%
+  giant_rat: 12.5%
+  goblin_shaman: 12.5%
+  frog_man: 12.5%
+  mimic: 12.5%
+  wolf: 12.5%
+  slime: 12.5%
+  bear: 12.5%
 Explorers:
-  skeleton: 49%
-  giant_rat: 21%
-  goblin_shaman: 12%
-  frog_man: 6%
-  mimic: 3%
-  wolf: 3%
-  slime: 3%
-  bear: 3%
+  skeleton: 12.5%
+  giant_rat: 12.5%
+  goblin_shaman: 12.5%
+  frog_man: 12.5%
+  mimic: 12.5%
+  wolf: 12.5%
+  slime: 12.5%
+  bear: 12.5%
 Advanced Archipelago:
-  skeleton: 54%
-  pirate: 18%
-  orc_wizard: 14%
-  merman: 7%
-  frog_man: 7%
+  skeleton: 20%
+  pirate: 20%
+  orc_wizard: 20%
+  merman: 20%
+  frog_man: 20%
 Enclave Explorers:
-  skeleton: 71%
-  mosquito: 14%
-  seagull: 5%
-  snake: 5%
-  tiger: 5%
+  skeleton: 20%
+  mosquito: 20%
+  seagull: 20%
+  snake: 20%
+  tiger: 20%
 Humble Beginnings:
   rabbit: 9%
   rat: 9%
