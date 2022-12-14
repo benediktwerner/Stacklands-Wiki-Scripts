@@ -18,3 +18,6 @@
 
 [[Category:Mobs]]
 [[Category:Hostile Mobs]]
+[[Category:Special Hit/Lifesteal]]
+[[Category:Special Hit/Lifesteal/Random Enemy]]
+[[Category:Special Hit/Random Enemy]]

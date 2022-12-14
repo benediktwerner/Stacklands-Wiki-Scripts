@@ -24,3 +24,6 @@
 
 [[Category:Mobs]]
 [[Category:Hostile Mobs]]
+[[Category:Special Hit/Critical Hit]]
+[[Category:Special Hit/Critical Hit/Target]]
+[[Category:Special Hit/Target]]

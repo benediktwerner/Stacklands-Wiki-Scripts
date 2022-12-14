@@ -17,3 +17,6 @@
 
 [[Category:Mobs]]
 [[Category:Hostile Mobs]]
+[[Category:Special Hit/Bleed]]
+[[Category:Special Hit/Bleed/Target]]
+[[Category:Special Hit/Target]]

@@ -28,3 +28,6 @@
 
 [[Category:Mobs]]
 [[Category:Hostile Mobs]]
+[[Category:Special Hit/Lifesteal]]
+[[Category:Special Hit/Lifesteal/Target]]
+[[Category:Special Hit/Target]]

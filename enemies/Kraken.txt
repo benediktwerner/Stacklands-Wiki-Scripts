@@ -17,3 +17,6 @@
 
 [[Category:Mobs]]
 [[Category:Hostile Mobs]]
+[[Category:Special Hit/Stun]]
+[[Category:Special Hit/Stun/All Enemy]]
+[[Category:Special Hit/All Enemy]]

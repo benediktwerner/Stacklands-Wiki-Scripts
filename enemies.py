@@ -20,6 +20,14 @@ SPECIAL_HIT_TARGET = [
     "allfriendly",
     "allenemy",
 ]
+SPECIAL_HIT_TARGET_CAT = [
+    "Self",
+    "Target",
+    "Random Friendly",
+    "Random Enemy",
+    "All Friendly",
+    "All Enemy",
+]
 SPECIAL_HIT_TYPE = [
     "none",
     "poison",
@@ -32,6 +40,19 @@ SPECIAL_HIT_TYPE = [
     "damage",
     "invulnerable",
     "crit",
+]
+SPECIAL_HIT_TYPE_CAT = [
+    "none",
+    "Poison",
+    "Stun",
+    "Heal",
+    "Heal",
+    "Lifesteal",
+    "Bleed",
+    "Frenzy",
+    "Damage",
+    "Invulnerable",
+    "Critical Hit",
 ]
 ATTACK_SPEED = [
     3.5,
@@ -163,6 +184,24 @@ def summarize_specials(stats):
     if len(specials) == 1:
         return specials[0]
     return "*" + "\n*".join(specials)
+
+
+def append_once(lst, val):
+    if val not in lst:
+        lst.append(val)
+
+
+def special_hit_categories(stats):
+    out = []
+    for s in stats["SpecialHits"]:
+        typ = SPECIAL_HIT_TYPE_CAT[s["HitType"]]
+        target = SPECIAL_HIT_TARGET_CAT[s["Target"]]
+        append_once(out, f"[[Category:Special Hit/{typ}]]")
+        append_once(out, f"[[Category:Special Hit/{typ}/{target}]]")
+        append_once(out, f"[[Category:Special Hit/{target}]]")
+    if out:
+        return "\n" + "\n".join(out)
+    return ""
 
 
 def attack_speed(stats):
@@ -367,7 +406,7 @@ for guid, obj in objs_by_guid.items():
 {gear}\
 {drops}\
 [[Category:Mobs]]
-[[Category:Hostile Mobs]]"""
+[[Category:Hostile Mobs]]{special_hit_categories(stats)}"""
 
     with open(os.path.join(OUT_PATH, name.replace(" ", "_") + ".txt"), "w") as of:
         of.write(out)

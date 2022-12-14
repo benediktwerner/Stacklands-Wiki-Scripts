@@ -22,3 +22,6 @@
 
 [[Category:Mobs]]
 [[Category:Hostile Mobs]]
+[[Category:Special Hit/Poison]]
+[[Category:Special Hit/Poison/Target]]
+[[Category:Special Hit/Target]]
